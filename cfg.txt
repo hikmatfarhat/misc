@@ -1,0 +1,5 @@
+S->AC
+S->AB
+C->SB
+A->a
+B->b
